@@ -4,7 +4,7 @@
 	Funcionalidade: Acessar os formularios do site Tricentis
 		    Preencher a segunda aba de avaliacao seguro
 		    
-		  Cenario: Acessar e preencher o segundo formulario do site
+		Cenario: Acessar e preencher o segundo formulario do site
 	    Dado que eu estou no site da Trincentis no formulario "Enter Insurant Data"
 	    E seleciono First Name e digito "Cristiane"
 	    E seleciono Last Name e digito em "Silva"
