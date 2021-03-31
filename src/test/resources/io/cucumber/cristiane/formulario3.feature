@@ -5,7 +5,7 @@
 	
 	  Cenario: Preencher a terceira aba de avaliacao seguro
 	    Dado que eu estou no site da Trincentis no formulario "Enter Product Data"
-	    E seleciono Start Date e digito "04/10/2021"
+	    E seleciono Start Date e digito "05/05/2021"
 	    E seleciono Insurance Sum e clico em "5.000.000,00"
 	    E seleciono Merit Rating e clico em "Bonus 1"
 	    E seleciono Damage Insurance e clico em "No Coverage"

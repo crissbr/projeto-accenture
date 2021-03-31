@@ -3,7 +3,7 @@
 Funcionalidade: Acessar os formularios do site Tricentis
 	    Preencher a primeira aba de avaliacao seguro
 	    
-		  Cenario: Preencher aba enter Vehicle Data
+		Cenario: Preencher aba enter Vehicle Data
 	    Dado que eu estou no site "http://sampleapp.tricentis.com/101/app.php"
 	    E seleciono Make e clico em "Nissan"
 	    E seleciono Model e clico em "Scooter"
