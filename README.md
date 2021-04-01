@@ -79,6 +79,7 @@ E devo clicar em Send</br>
 Entao ver a mensagem "Sending e-mail success!"</br>
 
 -------------------------------------------------------------------------------------
+
 ## Tecnologias utilizadas
 :heavy_check_mark: Java</br>
 Linguagem de programação para desenvolvimento da aplicação</br>
@@ -93,6 +94,7 @@ Framework responsável por traduzir uma linguagem humana em código Java</br>
 Framework responsável por fazer a integração do código com a linguagem Gherkin (Cucumber),
 abrindo o browser e fazendo o teste de comportamento
 
+--------------------------------------------------------------------------------------------
 
 ## Como utilizar:
 - Clone do projeto
