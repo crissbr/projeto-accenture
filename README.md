@@ -1,7 +1,7 @@
 <b># Descrição do Projeto</b>
 --------------------------------------------------------------------------------
 
-## Criar um projeto em selenium webdrive (java) e cucumber usando Page objects 
+## Criar um projeto em selenium webdrive (Java) e cucumber usando Page Objects 
 
 ### Caso de teste 1
 
