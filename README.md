@@ -6,6 +6,9 @@
 
 ### Criar um projeto em selenium webdrive (Java) e cucumber usando Page Objects 
 
+
+#### São 5 cenários distribuídos em 5 arquivos de casos de teste
+
 ### Caso de teste 1
 
 <b>Acessar os formulários do site Tricentis</b>
