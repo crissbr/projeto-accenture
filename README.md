@@ -1,4 +1,4 @@
-<h1>Projeto Individual - Accenture QA<h1>
+<h1 align="center">Projeto Individual - Accenture QA</h1>
 
 <b># Descrição do Projeto</b>
 --------------------------------------------------------------------------------
