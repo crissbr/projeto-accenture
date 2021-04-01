@@ -3,7 +3,7 @@
 	Funcionalidade: Acessar os formularios da Tricentis
 	  Criando uma rotina de teste para validar o site Tricentis
 	
-	  Cenario: Preencher a terceira aba de avaliacao seguro
+	    Cenario: Preencher a terceira aba de avaliacao seguro
 	    Dado que eu estou no site da Trincentis no formulario "Enter Product Data"
 	    E seleciono Start Date e digito "05/05/2021"
 	    E seleciono Insurance Sum e clico em "5.000.000,00"
