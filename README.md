@@ -4,7 +4,7 @@
 <b># Descrição do Projeto</b>
 --------------------------------------------------------------------------------
 
-### Criar um projeto em selenium webdrive (Java) e cucumber usando Page Objects 
+### Criar um projeto em selenium webdriver (Java) e cucumber usando Page Objects 
 
 
 #### São 5 cenários distribuídos em 5 arquivos de casos de teste
