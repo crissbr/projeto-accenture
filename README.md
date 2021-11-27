@@ -13,7 +13,7 @@
 
 <b>Acessar os formulários do site Tricentis</b>
 
-<b>Cenario</b>: Preencher aba enter Vehicle Data
+<b>Cenario</b>: Preencher aba enter Vehicle Data<br>
 Dado que eu estou no site "http://sampleapp.tricentis.com/101/app.php"</br>
 E seleciono Make e clico em "Nissan"</br>
 E seleciono Model e clico em "Scooter"</br>
